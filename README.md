@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 - 🌱 Exploring: **Time Series and Deep Learning**
 
+- 📫 How to reach me **aadityayadav2003@gmail.com**
+
+
+
