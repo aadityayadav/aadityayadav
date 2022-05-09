@@ -19,4 +19,15 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=aadityayadav&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=aadityayadav&style=flat-square&color=blue" align= "center" alt=""/>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+- 🏫 I'm a **Software Engineering** student at **University of Waterloo**
+
+- 👨‍💻 Working as a **Full Stack Software Developer** @ **<a href="https://www.empire.ca/"> Empire Life Insurance </a>**
+
+- 🌱 Exploring: **Time Series and Deep Learning**
+
