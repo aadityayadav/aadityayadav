@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
-<img align="right" width=200px height=200px alt="side_sticker" src="https://giphy.com/gifs/visuals-network-connectivity-YnexM9LwlwGu4Z1QnS/fullscreen"/>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 - 🏫 I'm a **Software Engineering** student at **University of Waterloo**
 
