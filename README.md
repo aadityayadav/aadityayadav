@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 - 🏫 I'm a **Software Engineering** student at **University of Waterloo**
 
-- 👨‍💻 Working as a **Full Stack Software Developer** @ **<a href="https://www.empire.ca/"> Empire Life Insurance </a>**
+- 👨‍💻 Working as a **Full Stack Software Developer** @ **<a href="https://www.safyrelabs.com/"> Safyre Labs </a>**
 
 - 🌱 Exploring: **Time Series and Deep Learning**
 
-- 📫 How to reach me **aadityayadav2003@gmail.com**
+- 📫 How to reach me **<a href ="https://ca.linkedin.com/in/aaditya-yadav-a556a61b1"> Linkedin </a>**
 
 
 
