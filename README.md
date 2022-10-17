@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Working as a **Full Stack Software Developer** @ **<a href="https://www.safyrelabs.com/"> Safyre Labs </a>**
 
+- 🔭 I’m currently looking for **Summer 2023 Internships**
+
 - 🌱 Exploring: **Time Series and Deep Learning**
 
 - 📫 How to reach me **<a href ="https://ca.linkedin.com/in/aaditya-yadav-a556a61b1"> Linkedin </a>**
