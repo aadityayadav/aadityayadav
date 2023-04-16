@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 🏫 I'm a **Software Engineering** student at **University of Waterloo**
 
-- 👨‍💻 Working as a **Full Stack Software Developer** @ **<a href="https://www.safyrelabs.com/"> Safyre Labs </a>**
+- 👨‍💻 Incoming **Server Firmware Engineer** @ **<a href="https://www.nvidia.com/en-us/"> Nvidia </a>**
 
-- 🔭 I’m currently looking for **Summer 2023 Internships**
+- 🔭 I’m currently looking for **Winter 2024 Internships**
 
 - 🌱 Exploring: **Time Series and Deep Learning**
 
