@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-- 🏫 I'm a **Software Engineering** student at **University of Waterloo**
+- 🏫 I'm a **Software Engineering** student at the **University of Waterloo**
 
-- 👨‍💻 **Server Firmware Engineer** @ **<a href="https://www.nvidia.com/en-us/"> Nvidia </a>**
+- 👨‍💻 **LLM Research Engineer** @ **<a href="https://www.nvidia.com/en-us/"> Nvidia </a>**
 
-- 🔭 I’m currently looking for **Winter 2024 Internships**
+- 🔭 I’m currently looking for **New Grad Opportunities**
 
-- 🌱 Exploring: **Time Series and Deep Learning**
+- 🌱 Exploring: **Everything :)**
 
 - 📫 How to reach me **<a href ="https://ca.linkedin.com/in/aaditya-yadav-a556a61b1"> Linkedin </a>**
 
